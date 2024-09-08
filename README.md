@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ramon
 - 👀 I’m interested in Cybersecurity and Electronics Engineering
 - 🌱 I’m currently learning Ethical Hacking
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on projects, be it web development and cybersecurity
 - 📫 You can reach me on Discord @gr33pp
 
 <!---
