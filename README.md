@@ -35,4 +35,4 @@ I am passionate about Offensive Security, with a specific focus on Web, AppSec, 
 ### CTF Platforms
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/S33K3R.png" alt="TryHackMe"/>
-<img src="https://pwntilldawn-badge.rammybizz.workers.dev/profile/badge/6835.png" alt="pwntilldawn"/>
+<img src="https://pwntilldawn-badge.rammybizz.workers.dev/profile/badge/5014.png" alt="PwnTillDawn">
